@@ -1,7 +1,7 @@
 # CardPaymentsApi
 Api para pagos de tarjeta para la compañia BankInc, realizada en spring boot con una base de datos H2
 
-## Instrucciones para ejecutar la aplicación local en eclipse
+## Instrucciones para ejecutar la aplicación local en eclipse o Spring tools
 1. Descargar el proyecto a la carpeta local deseada.
 2. En Eclipse, seguir la siguiente ruta desde el menú: File -> Import -> Maven -> Existing Maven Projects -> Next
 3. En la ventana emergente, click en el botón "Browse" y seleccionar la carpeta donde se desacargó el proyect.
